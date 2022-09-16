@@ -37,7 +37,7 @@ header div{
 }
 
 header div:hover{
-    transform: scale(2.2); /* aumenta*/
+    transform: scale(1.1); /* aumenta*/
 }
 header img{
 
