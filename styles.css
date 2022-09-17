@@ -33,7 +33,7 @@ header div{
 
     display: flex;
     padding: 4px;
-    transition: transform ,3s;
+    transition: transform .3s; /*volic img rosto*/
 }
 
 header div:hover{
